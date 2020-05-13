@@ -45,7 +45,7 @@ class Adapter{
         console.log(this._adapter);
     }
 }
-const user1 = new User(1,'abhishek','jaiswal');
+const user1 = new User(1,'abhishek','bheem');
 const user2 = new User(2,'nambiar','abhi');
 const user3= new User(3,'chinmay','abhishek');
 let arr = [];
